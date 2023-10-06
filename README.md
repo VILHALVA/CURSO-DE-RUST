@@ -8,7 +8,7 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://www.youtube.com/playlist?list=PLGtFJAmtESz-V5p-svTX34bGQvNuXEpHE)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" align="center" width="280"> <br>
+<img src="https://www.freecodecamp.org/news/content/images/2021/01/rust-mascot.png" align="center" width="280"> <br>
 
 ![](https://i.imgur.com/waxVImv.png)
 
