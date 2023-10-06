@@ -20,7 +20,7 @@
 | SIGNIFICADO DO NOME | O nome "Rust" é uma referência ao óxido de ferro, que é conhecido por ser resistente à ferrugem. |
 | É BASEADA NO | C++, Haskell e OCaml |
 | EXTENÇÃO DO ARQUIVO | .rs |
-| É MAIS USADA | Sistemas enbarcados |
+| É MAIS USADA | Sistemas embarcados |
 
 - Data de criação: Rust foi criada em 2010, com o desenvolvimento inicial liderado por Graydon Hoare. A primeira versão estável, Rust 1.0, foi lançada em maio de 2015.
 
