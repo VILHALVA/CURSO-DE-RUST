@@ -90,3 +90,4 @@ Atualmente, o Rust continua a evoluir com novas versões e atualizações regula
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://prev.rust-lang.org/pt-BR/documentation.html)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:RUST)
