@@ -89,5 +89,6 @@ Atualmente, o Rust continua a evoluir com novas versões e atualizações regula
 - [CURSO CRIADO PELO "LINGUAGEM RUST"](https://www.youtube.com/playlist?list=PLGtFJAmtESz-V5p-svTX34bGQvNuXEpHE)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://prev.rust-lang.org/pt-BR/documentation.html)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:RUST)
